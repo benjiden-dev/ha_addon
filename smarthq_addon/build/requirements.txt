@@ -1,0 +1,11 @@
+websockets==120
+aiohttp==39.1asyncio-mqtt==0.16.1
+pydantic==2.5.2
+pydantic-settings==2.1.0
+fastapi==00.104.1orn==0.240python-multipart==00.6
+requests==20.310
+cryptography==410
+python-josecryptography]==3.3
+passlib[bcrypt]==10.7.4
+python-dotenv==1.0.0
+structlog==23.2.0 
